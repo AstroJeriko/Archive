@@ -1,2 +1,2 @@
 # Archive
-This repository serves as my GitHub Page to create a website that serves as a personal portfolio and blog.
+This GitHub repository serves that the hosting location of my GitHub Page. This website contains all of my astronomy and astrophotography related content.
